@@ -3,5 +3,14 @@
 /public
 .env
 .budfiles
+.yarn
 npm-debug.log
 yarn-error.log
+.yarnrc.yml
+*.bak
+*.log
+error_log
+*.zip
+*.db
+composer.lock
+package-lock.json
